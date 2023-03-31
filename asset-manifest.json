@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react_checkpoint/static/css/main.44f8b8b5.css",
+    "main.js": "/react_checkpoint/static/js/main.8ea9836e.js",
+    "static/js/787.254aa2da.chunk.js": "/react_checkpoint/static/js/787.254aa2da.chunk.js",
+    "static/media/welcom.svg": "/react_checkpoint/static/media/welcom.033160f37b973e746b2c947e5c098e1e.svg",
+    "static/media/login.svg": "/react_checkpoint/static/media/login.2868307867a3312133109114f237d8b9.svg",
+    "static/media/singn up.svg": "/react_checkpoint/static/media/singn up.88af3e30ea06c4e4e4b5afb115f8fdff.svg",
+    "index.html": "/react_checkpoint/index.html",
+    "main.44f8b8b5.css.map": "/react_checkpoint/static/css/main.44f8b8b5.css.map",
+    "main.8ea9836e.js.map": "/react_checkpoint/static/js/main.8ea9836e.js.map",
+    "787.254aa2da.chunk.js.map": "/react_checkpoint/static/js/787.254aa2da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.8ea9836e.js"
+  ]
+}
